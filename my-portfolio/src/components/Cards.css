@@ -44,7 +44,7 @@
     text-decoration: none;
   }
   
-  .cards__item__pic-wrap {
+  .cards__item__pic {
     position: relative;
     width: 100%;
     padding-top: 67%;
@@ -56,7 +56,7 @@
     animation-duration: 2s;
   }
   
-  .cards__item__pic-wrap::after {
+  .cards__item__pic::after {
     content: attr(data-category);
     position: absolute;
     bottom: 0;
