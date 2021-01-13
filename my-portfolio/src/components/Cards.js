@@ -22,6 +22,20 @@ function Cards() {
                         label="sleep"
                         path="/portfolio"
                         />
+                        <br></br>
+                        <CardItem 
+                        src="images/img-1.jpeg"
+                        text="relax"
+                        label="sleep"
+                        path="/portfolio"
+                        />
+                        <br></br>
+                        <CardItem 
+                        src="images/img-1.jpeg"
+                        text="relax"
+                        label="sleep"
+                        path="/portfolio"
+                        />
                     </ul>
                 </div>
             </div>

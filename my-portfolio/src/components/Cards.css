@@ -98,3 +98,21 @@
     font-size: 18px;
     line-height: 24px;
   }
+
+  @media only screen and (min-width: 1200px) {
+    .context__blog__container {
+      width: 85%;
+    }
+  }
+  
+  @media only screen and (min-width: 1000px){
+    .cards___items{
+      display: flex;
+    }
+  }
+
+  @media only screen and (max-width: 1000px){
+    .cards___item{
+      margin-bottom: 2rem;
+    }
+  }

@@ -8,6 +8,7 @@ function Home () {
         <div>
             <HomeSection />
             <Cards />
+            
         </div>
     )
 }
