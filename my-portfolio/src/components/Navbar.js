@@ -13,8 +13,8 @@ function Navbar() {
         <div>
             <nav className="navbar">
                 <div className="navbar-container">
-                    <Link to="/" className="navbar-logo">
-                        JR <i className="fab.fa-typo3" /> 
+                    <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+                        JR <i class="fas fa-bahai" /> 
                     </Link>
                     <div className="menu-icon" onClick={handleClick}>
                         <i classNane={click ? "fas fa-times" : "fas fa-bars"} />

@@ -22,10 +22,11 @@ function Cards() {
                         label="sleep"
                         path="/portfolio"
                         />
-                        <br></br>
+                    </ul>
+                    <ul className="cards__items">
                         <CardItem 
                         src="images/img-1.jpeg"
-                        text="relax"
+                        text="relaxing on a rock"
                         label="sleep"
                         path="/portfolio"
                         />
