@@ -22,3 +22,5 @@ export const ImageData = [
         alt: "Photo"
     },
 ]
+
+export default ImageData;

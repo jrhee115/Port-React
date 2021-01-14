@@ -1,6 +1,7 @@
 import React from "react";
 import "../../App.css"
 import Images from "../Images"
+import ImageData from "../ImageData"
 
 export default function Portfolios(){
     return (
