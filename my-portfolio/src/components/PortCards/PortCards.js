@@ -10,31 +10,31 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
-                        src="images/img-1.jpeg"
-                        text="relaxing on a rock"
-                        label="sleep"
+                        src="images/img-8.jpg"
+                        text="Dream without fear, love without LIMITS"
+                        label="Wedding"
                         path="/portfolio"
                         />
                         <br></br>
                         <CardItem 
-                        src="images/img-1.jpeg"
-                        text="relax"
-                        label="sleep"
+                        src="images/img-21.jpeg"
+                        text="Somtimes its OK if the only thing you did today was breathe"
+                        label="Comfort"
                         path="/portfolio"
                         />
                     </ul>
                     <ul className="cards__items">
                         <CardItem 
-                        src="images/img-1.jpeg"
-                        text="relaxing on a rock"
-                        label="sleep"
+                        src="images/img-10.jpg"
+                        text="A smooth sea never made a skillful sailor"
+                        label="Atlantis"
                         path="/portfolio"
                         />
                         <br></br>
                         <CardItem 
-                        src="images/img-1.jpeg"
-                        text="relax"
-                        label="sleep"
+                        src="images/img- 19.jpg"
+                        text="Not all homes are closed, some are welcoming"
+                        label="Home"
                         path="/portfolio"
                         />
                     </ul>
