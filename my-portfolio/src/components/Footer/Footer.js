@@ -9,14 +9,14 @@ function Footer() {
                 <div className="footer-link-wrapper">
                     <div class="footer-link-items">
                         <h2>About Me</h2>
-                        <Link to="/">Photography</Link>
-                        <Link to="/">Coding</Link>
+                        <Link to="/portfolio">Photography</Link>
+                        <Link to="/project">Coding</Link>
                     </div>
                     
                     <div class="footer-link-items">
                         <h2>Contact</h2>
-                        <Link to="/">Contact</Link>
-                        <Link to="/">Support</Link>
+                        <Link to="/about">Contact Me</Link>
+                        <Link to="/"></Link>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@ function Footer() {
                         </Link>
                     </div>
                     <small class="website-rights">JR © 2021</small>
-                    <div class="social-icons">
+                    {/* <div class="social-icons">
                         <Link class="social-icon-link instagram"
                             to="/"
                             target="_blank"
@@ -46,8 +46,9 @@ function Footer() {
                             target="_blank"
                             aria-label="LinkedIn">
                             <i class="fab fa-linkedin" />
+                            
                         </Link>
-                    </div>
+                    </div> */}
                 </div>
             </section>
         </div>
