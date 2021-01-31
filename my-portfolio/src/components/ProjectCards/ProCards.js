@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import CardItem from "../CardItem"
 import "./ProCards.css"
 
@@ -19,6 +20,7 @@ function ProCards() {
                         label="Look4wardToIt"
                         path="/project"
                         />
+                        <br />
                         <CardItem 
                         src="images/casino.png"
                         text="Welcome to the Social Underground, a place where you can 
@@ -30,6 +32,7 @@ function ProCards() {
                         label="Social Underground"
                         path="/project"
                         />
+                        <br />
                         <CardItem 
                         src="images/fitness.png"
                         text="As a user, I want to be able to view create and track daily workouts. 
@@ -42,21 +45,6 @@ function ProCards() {
                         path="/project"
                         />
                     </ul>
-                    {/* <ul className="cards__items">
-                        <CardItem 
-                        src="images/img-1.jpeg"
-                        text="relaxing on a rock"
-                        label="sleep"
-                        path="/portfolio"
-                        />
-                        <br></br>
-                        <CardItem 
-                        src="images/img-1.jpeg"
-                        text="relax"
-                        label="sleep"
-                        path="/portfolio"
-                        />
-                    </ul> */}
                 </div>
             </div>
         </div>

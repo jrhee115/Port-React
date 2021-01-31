@@ -13,33 +13,28 @@ function Cards() {
                     <div className="cards__items">
                         <CardItem 
                         src="images/img-20.jpg"
-                        text="My name is Justin and I graduated Rutgers with a degree in Biology and Chemistry. 
-                        After doing research at Weill Cornell Medicial College and working as an admission counselor at Rutgers Univeristy - Camden, 
-                        I realized my true passion was coding and photography, this got me thinking about joining a bootcamp. 
-                        While working at Rutgers I came across a bootcamp program thats under the Rutgers program so as an alumni I decided to join this bootcamp."
+                        text="
+                        Front end web developer leveraging background in psychology to provide unique perspectives on how end-users interact with websites and software platforms. 
+                        Earned a certificate in Web Development from the Rutgers University Coding Boot Camp. 
+                        My background is diverse. Growing up in the northeast coast, and going to school for Biology and Chemistry, working as an Admission
+                        counselor at Rutgers University - Camden, and now pursuing the future tech.
+                        Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. 
+                        Strengths in creativity, teamwork, and executing projects from ideas to products."
                         label="Justin Rhee"
                         path="/portfolio"
                         />
                     </div>
                     <div className="cards__items">
-                        <SocialMedia />
-
+                    <CardItem 
+                        src="images/img-22.jpeg"
+                        text="Phone: (201) 566-1340
+                        Email: justinrhee514@gmail.com"
+                        label="Contact Me"
+                        />
                     </div>
-                    {/* <ul className="cards__items">
-                        <CardItem 
-                        src="images/img-1.jpeg"
-                        text="relaxing on a rock"
-                        label="sleep"
-                        path="/portfolio"
-                        />
-                        <br></br>
-                        <CardItem 
-                        src="images/img-1.jpeg"
-                        text="relax"
-                        label="sleep"
-                        path="/portfolio"
-                        />
-                    </ul> */}
+                    <div className="cards__items">
+                        <SocialMedia />
+                    </div>
                 </div>
             </div>
         </div>
