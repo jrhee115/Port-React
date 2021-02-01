@@ -1,26 +1,42 @@
 {
   "files": {
     "main.css": "/Port-React/static/css/main.de32eb0d.chunk.css",
-    "main.js": "/Port-React/static/js/main.2d10a810.chunk.js",
-    "main.js.map": "/Port-React/static/js/main.2d10a810.chunk.js.map",
-    "runtime-main.js": "/Port-React/static/js/runtime-main.d736de98.js",
-    "runtime-main.js.map": "/Port-React/static/js/runtime-main.d736de98.js.map",
-    "static/js/2.e7fcf97f.chunk.js": "/Port-React/static/js/2.e7fcf97f.chunk.js",
-    "static/js/2.e7fcf97f.chunk.js.map": "/Port-React/static/js/2.e7fcf97f.chunk.js.map",
+    "main.js": "/Port-React/static/js/main.5c70255b.chunk.js",
+    "main.js.map": "/Port-React/static/js/main.5c70255b.chunk.js.map",
+    "runtime-main.js": "/Port-React/static/js/runtime-main.39cdc76a.js",
+    "runtime-main.js.map": "/Port-React/static/js/runtime-main.39cdc76a.js.map",
+    "static/js/2.0275b9d2.chunk.js": "/Port-React/static/js/2.0275b9d2.chunk.js",
+    "static/js/2.0275b9d2.chunk.js.map": "/Port-React/static/js/2.0275b9d2.chunk.js.map",
     "index.html": "/Port-React/index.html",
     "static/css/main.de32eb0d.chunk.css.map": "/Port-React/static/css/main.de32eb0d.chunk.css.map",
-    "static/js/2.e7fcf97f.chunk.js.LICENSE.txt": "/Port-React/static/js/2.e7fcf97f.chunk.js.LICENSE.txt",
+    "static/js/2.0275b9d2.chunk.js.LICENSE.txt": "/Port-React/static/js/2.0275b9d2.chunk.js.LICENSE.txt",
+    "static/media/Fitness.4772d582.png": "/Port-React/static/media/Fitness.4772d582.png",
     "static/media/IMG--2.c195130a.JPG": "/Port-React/static/media/IMG--2.c195130a.JPG",
     "static/media/IMG--3.150f9ffc.jpeg": "/Port-React/static/media/IMG--3.150f9ffc.jpeg",
+    "static/media/calendar.380be7d0.png": "/Port-React/static/media/calendar.380be7d0.png",
+    "static/media/casino.7538fccd.png": "/Port-React/static/media/casino.7538fccd.png",
+    "static/media/img- 19.9ffb784f.jpg": "/Port-React/static/media/img- 19.9ffb784f.jpg",
+    "static/media/img-1.fa1a83a1.jpeg": "/Port-React/static/media/img-1.fa1a83a1.jpeg",
+    "static/media/img-10.f509eadc.jpg": "/Port-React/static/media/img-10.f509eadc.jpg",
+    "static/media/img-13.640ad66b.jpg": "/Port-React/static/media/img-13.640ad66b.jpg",
     "static/media/img-14.052e3047.jpg": "/Port-React/static/media/img-14.052e3047.jpg",
     "static/media/img-18.7997f277.jpg": "/Port-React/static/media/img-18.7997f277.jpg",
+    "static/media/img-2.d5fa81cb.jpg": "/Port-React/static/media/img-2.d5fa81cb.jpg",
+    "static/media/img-20.f4b634cb.jpg": "/Port-React/static/media/img-20.f4b634cb.jpg",
+    "static/media/img-21.590463d1.jpeg": "/Port-React/static/media/img-21.590463d1.jpeg",
+    "static/media/img-22.d470e1e4.jpeg": "/Port-React/static/media/img-22.d470e1e4.jpeg",
+    "static/media/img-6.877356a4.jpg": "/Port-React/static/media/img-6.877356a4.jpg",
     "static/media/img-7.fa75000a.jpg": "/Port-React/static/media/img-7.fa75000a.jpg",
-    "static/media/img-9.b1a88e81.jpg": "/Port-React/static/media/img-9.b1a88e81.jpg"
+    "static/media/img-8.5e71be9b.jpg": "/Port-React/static/media/img-8.5e71be9b.jpg",
+    "static/media/img-9.b1a88e81.jpg": "/Port-React/static/media/img-9.b1a88e81.jpg",
+    "static/media/video-1.39e6c79b.mp4": "/Port-React/static/media/video-1.39e6c79b.mp4",
+    "static/media/video-2.b6b88dd8.mp4": "/Port-React/static/media/video-2.b6b88dd8.mp4",
+    "static/media/video-3.9bd949eb.mp4": "/Port-React/static/media/video-3.9bd949eb.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.d736de98.js",
-    "static/js/2.e7fcf97f.chunk.js",
+    "static/js/runtime-main.39cdc76a.js",
+    "static/js/2.0275b9d2.chunk.js",
     "static/css/main.de32eb0d.chunk.css",
-    "static/js/main.2d10a810.chunk.js"
+    "static/js/main.5c70255b.chunk.js"
   ]
 }
