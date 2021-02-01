@@ -15,14 +15,14 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src= {WeddingImg}
-                        text="Dream without fear, love without LIMITS"
+                        text1="Dream without fear, love without LIMITS"
                         label="Wedding"
                         path="/portfolio"
                         />
                         <br></br>
                         <CardItem 
                         src= {ComfortImg}
-                        text="Sometimes its OK if the only thing you did today was breathe"
+                        text1="Sometimes its OK if the only thing you did today was breathe"
                         label="Comfort"
                         path="/portfolio"
                         />
@@ -30,14 +30,14 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src= {AtlantisImg}
-                        text="A smooth sea never made a skillful sailor"
+                        text1="A smooth sea never made a skillful sailor"
                         label="Atlantis"
                         path="/portfolio"
                         />
                         <br></br>
                         <CardItem 
                         src= {HomeImg}
-                        text="Not all homes are closed, some are welcoming"
+                        text1="Not all homes are closed, some are welcoming"
                         label="Home"
                         path="/portfolio"
                         />

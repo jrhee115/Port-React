@@ -15,13 +15,13 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src= {RelaxImg}
-                        text="Take a deep breath.. Inhale peace. Exhale happiness."
+                        text1="Take a deep breath.. Inhale peace. Exhale happiness."
                         label="Relax"
                         path="/portfolio"
                         />
                         <CardItem 
                         src= {NatureImg}
-                        text="No matter how close you are to the edge, stand straight and keep moving forward."
+                        text1="No matter how close you are to the edge, stand straight and keep moving forward."
                         label="Nature"
                         path="/portfolio"
                         />
@@ -29,14 +29,14 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src= {MuseumImg}
-                        text="You can have anything you want in life if you dress for it. "
+                        text1="You can have anything you want in life if you dress for it. "
                         label="Museum"
                         path="/portfolio"
                         />
                         <br></br>
                         <CardItem 
                         src= {BeautyImg}
-                        text="The flower that follows the sun does so even in cloudy days."
+                        text1="The flower that follows the sun does so even in cloudy days."
                         label="Beauty"
                         path="/portfolio"
                         />

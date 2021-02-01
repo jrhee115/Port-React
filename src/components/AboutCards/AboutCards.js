@@ -15,7 +15,7 @@ function Cards() {
                     <div className="cards__items">
                         <CardItem 
                         src={MeImg}
-                        text="
+                        text1="
                         Front end web developer leveraging background in psychology to provide unique perspectives on how end-users interact with websites and software platforms. 
                         Earned a certificate in Web Development from the Rutgers University Coding Boot Camp. 
                         My background is diverse. Growing up in the northeast coast, and going to school for Biology and Chemistry, working as an Admission
@@ -29,8 +29,8 @@ function Cards() {
                     <div className="cards__items">
                     <CardItem 
                         src= {ContactImg}
-                        text="Phone: (201) 566-1340
-                        Email: justinrhee514@gmail.com"
+                        text1="Phone: (201) 566-1340"
+                        text2= "Email: justinrhee514@gmail.com"
                         label="Contact Me"
                         />
                     </div>
