@@ -1,11 +1,12 @@
 import React from "react";
 import "./AboutSection.css";
 import "../App.css";
+import VideoThree from "../videos/video-3.mp4"
 
 function AboutSection(){
     return(
         <div className="home-container">
-            <video src="/videos/video-3.mp4" autoPlay loop muted />
+            <video src= {VideoThree} autoPlay loop muted />
             <h1>About </h1>
             <p></p>
         </div>

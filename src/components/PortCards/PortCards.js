@@ -1,6 +1,10 @@
 import React from 'react'
 import CardItem from "../CardItem"
 import "./PortCards.css"
+import WeddingImg from "../../Images/img-8.jpg"
+import ComfortImg from "../../Images/img-21.jpeg"
+import AtlantisImg from "../../Images/img-10.jpg"
+import HomeImg from "../../Images/img- 19.jpg"
 
 function Cards() {
     return (
@@ -10,29 +14,29 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
-                        src="images/img-8.jpg"
+                        src= {WeddingImg}
                         text="Dream without fear, love without LIMITS"
                         label="Wedding"
                         path="/portfolio"
                         />
                         <br></br>
                         <CardItem 
-                        src="images/img-21.jpeg"
-                        text="Somtimes its OK if the only thing you did today was breathe"
+                        src= {ComfortImg}
+                        text="Sometimes its OK if the only thing you did today was breathe"
                         label="Comfort"
                         path="/portfolio"
                         />
                     </ul>
                     <ul className="cards__items">
                         <CardItem 
-                        src="images/img-10.jpg"
+                        src= {AtlantisImg}
                         text="A smooth sea never made a skillful sailor"
                         label="Atlantis"
                         path="/portfolio"
                         />
                         <br></br>
                         <CardItem 
-                        src="images/img- 19.jpg"
+                        src= {HomeImg}
                         text="Not all homes are closed, some are welcoming"
                         label="Home"
                         path="/portfolio"

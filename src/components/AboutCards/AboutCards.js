@@ -2,6 +2,8 @@ import React from 'react'
 import CardItem from "../CardItem"
 import SocialMedia from '../SocialMedia'
 import "./AboutCards.css"
+import MeImg from "../../Images/img-20.jpg"
+import ContactImg from "../../Images/img-22.jpeg"
 
 
 function Cards() {
@@ -12,7 +14,7 @@ function Cards() {
                 <div className="cards__wrapper">
                     <div className="cards__items">
                         <CardItem 
-                        src="images/img-20.jpg"
+                        src={MeImg}
                         text="
                         Front end web developer leveraging background in psychology to provide unique perspectives on how end-users interact with websites and software platforms. 
                         Earned a certificate in Web Development from the Rutgers University Coding Boot Camp. 
@@ -26,7 +28,7 @@ function Cards() {
                     </div>
                     <div className="cards__items">
                     <CardItem 
-                        src="images/img-22.jpeg"
+                        src= {ContactImg}
                         text="Phone: (201) 566-1340
                         Email: justinrhee514@gmail.com"
                         label="Contact Me"
